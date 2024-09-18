@@ -155,7 +155,7 @@ font-family: "Open Sans", sans-serif;
 /* start landing */
 .landing{
     min-height: 100vh; /* علشان يملي الشاشة كاملة*/
-    background-image: url(../imege/WallpaperDog-20512845.jpg);
+    background-image: url(WallpaperDog-20512845.jpg);
     background-size: cover;
     position: relative;
 }
@@ -382,7 +382,7 @@ font-family: "Open Sans", sans-serif;
     padding-bottom: 100px;
     height: 600px;
     position: relative;
-    background-image: url(../imege/web-development.jpg);
+    background-image: url(web-development.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
@@ -600,7 +600,7 @@ font-family: "Open Sans", sans-serif;
     padding-top:100px ;
     padding-bottom: 100px;
     text-align: center;
-    background-image: url("../imege/cup-coffee6.jpg");
+    background-image: url("cup-coffee6.jpg");
     background-size: cover;
     position: relative;
 }
@@ -806,7 +806,7 @@ font-family: "Open Sans", sans-serif;
 .quote{
     padding-top:100px ;
     padding-bottom:100px ;
-    background-image: url('../imege/WallpaperDog-20512845.jpg');
+    background-image: url('WallpaperDog-20512845.jpg');
     background-size: cover;
     position: relative;
     text-align: center;
@@ -987,7 +987,7 @@ font-family: "Open Sans", sans-serif;
 .subscribe {
     padding-bottom: 100px;
     padding-top: 100px;
-    background-image: url('../imege/sub.jpg');
+    background-image: url('sub.jpg');
     background-size: cover;
     position: relative;
     color: white;
@@ -1178,7 +1178,7 @@ font-family: "Open Sans", sans-serif;
 .footer{
     padding-top: 50px;
     padding-bottom: 50px;
-    background-image: url(../imege/sub.jpg);
+    background-image: url(sub.jpg);
     background-size: cover;
     position: relative;
     color: white;
